@@ -2,44 +2,44 @@
 Repositório para que os participantes da oficina possam acompanhar o desenvolvimento
 
 <h2>Links relevantes</h2>
-Tags HTML5: https://www.w3schools.com/tags/default.asp
+<p>Tags HTML5: https://www.w3schools.com/tags/default.asp</p>
 
 <h2>Cronograma da oficina</h2>
 <h3>Sábado dia 20/03/2010</h3>
 
 <h4>Parte I: Início do projeto</h4>
-Horário: 15:45 até 18:00
-Conteúdo: 
-- Marcação do primeiro texto;
-- Separando conteúdos e informações;
-- Trabalhando com CSS;
-- Estilizando imagens;
-- Listas e divisões de conteúdo;
-- Finalizando a página. 
+<p>Horário: 15:45 até 18:00
+<p>Conteúdo: </p>
+<p>- Marcação do primeiro texto;</p>
+<p>- Separando conteúdos e informações;</p>
+<p>- Trabalhando com CSS;</p>
+<p>- Estilizando imagens;</p>
+<p>- Listas e divisões de conteúdo;</p>
+<p>- Finalizando a página.</p> 
 
 <h4>Parte II: Posicionamento</h4>
-Horário: 18:20 – 20:20
-Conteúdo:
-- Estrutura da página HTML;
-- Navegação entre outras páginas;
-- reset.css e posicionamento pelo CSS;
-- diferença entre inline e block;
-- bordas e pseudo-classes. 
+<p>Horário: 18:20 – 20:20</p>
+<p>Conteúdo:</p>
+<p>- Estrutura da página HTML;</p>
+<p>- Navegação entre outras páginas;</p>
+<p>- reset.css e posicionamento pelo CSS;</p>
+<p>- diferença entre inline e block;</p>
+<p>- bordas e pseudo-classes. </p>
 
 <h3>Domingo dia 21/03/2021</h3> 
 
 <h4>Parte III: Formulários e tabelas</h4>
-Horário: 15:45 - 18:00
-Conteúdo:
-- Formulários;
-- Tabelas;
-- Hierarquia;
-- Transformações e transições. 
+<p>Horário: 15:45 - 18:00</p>
+<p>Conteúdo:</p>
+<p>- Formulários;</p>
+<p>- Tabelas;</p>
+<p>- Hierarquia;</p>
+<p>- Transformações e transições. </p>
 
 <h4>Parte IV: Avançando no CSS</h4>
-Horário: 18:20 – 20:20
-- Importação de conteúdos externos ao HTML (fontes, vídeos e mapas);
-- Pseudo-classes e pseudo-elementos;
-- Seletores avançados;
-- Opacidade e sombra;
-- Viewport e design responsivo
+<p>Horário: 18:20 – 20:20</p>
+<p>- Importação de conteúdos externos ao HTML (fontes, vídeos e mapas);</p>
+<p>- Pseudo-classes e pseudo-elementos;</p>
+<p>- Seletores avançados;</p>
+<p>- Opacidade e sombra;</p>
+<p>- Viewport e design responsivo</p>
