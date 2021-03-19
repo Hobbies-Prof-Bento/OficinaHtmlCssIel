@@ -6,7 +6,7 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 <p>Tabela de cores HTML: https://www.flextool.com.br/tabela_cores.html</p>
 
 <h2>Cronograma da oficina</h2>
-<h3>Sábado dia 20/03/2010</h3>
+<h3>Sábado dia 20/03/2021</h3>
 
 <h4>Parte I: Início do projeto</h4>
 <p>Horário: 15:45 até 18:00
