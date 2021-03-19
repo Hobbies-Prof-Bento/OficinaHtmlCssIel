@@ -3,6 +3,7 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 
 <h2>Links relevantes</h2>
 <p>Tags HTML5: https://www.w3schools.com/tags/default.asp</p>
+<p>Tabela de cores HTML: https://www.flextool.com.br/tabela_cores.html</p>
 
 <h2>Cronograma da oficina</h2>
 <h3>Sábado dia 20/03/2010</h3>
