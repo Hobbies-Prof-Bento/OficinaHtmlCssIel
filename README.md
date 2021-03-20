@@ -6,6 +6,7 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 <p>Tabela de cores HTML: https://www.flextool.com.br/tabela_cores.html</p>
 <p>Informações sobre o CSS reset: https://meyerweb.com/eric/tools/css/reset/</p>
 <p>Informações sobre box-sizing: https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-sizing</p>
+<p>Tabela de caracteres unicode: https://unicode-table.com/</p>
 
 <h2>Cronograma da oficina</h2>
 <h3>Sábado dia 20/03/2021</h3>
