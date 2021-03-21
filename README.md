@@ -8,6 +8,8 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 <p>Informações sobre box-sizing: https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-sizing</p>
 <p>Tabela de caracteres unicode: https://unicode-table.com/</p>
 <p>Tipos de inputs para mobile: http://mobileinputtypes.com/</p>
+<p>Como mesclar linhas de tabelas: https://www.w3schools.com/tags/att_td_rowspan.asp</p>
+<p>Como mesclar colunas de tabelas: https://www.w3schools.com/tags/att_td_colspan.asp</p>
 
 <h2>Cronograma da oficina</h2>
 <h3>Sábado dia 20/03/2021</h3>
