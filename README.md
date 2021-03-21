@@ -12,6 +12,7 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 <p>Como mesclar colunas de tabelas: https://www.w3schools.com/tags/att_td_colspan.asp</p>
 <p>Informações sobre float: https://www.w3schools.com/cssref/pr_class_float.asp</p>
 <p>Informações sobre clear: https://developer.mozilla.org/pt-BR/docs/Web/CSS/clear</p>
+<p>Google fonts: https://fonts.google.com/</p>
 
 <h2>Cronograma da oficina</h2>
 <h3>Sábado dia 20/03/2021</h3>
