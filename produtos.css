@@ -1,34 +1,3 @@
-/* Cabeçalho */
-header {
-    background: #bbb;
-    padding: 20px 0;
-}
-.caixa {
-    width: 940px;
-    position: relative;
-    margin: 0 auto;
-}
-nav {
-    position: absolute;
-    top: 45%;
-    right: 0; 
-}
-.navegacao li {
-    display: inline;
-    margin-left: 15px;  
-}
-.navegacao a{
-    color: black;
-    text-transform: uppercase;
-    text-decoration: none;
-    font-weight: bold;
-    font-size: 22px;
-}
-.navegacao a:hover{
-    color: darkgoldenrod;
-    text-decoration: underline;
-}
-/* ________ */
 /* Principal */
 .produtos {
     width: 940px;
@@ -77,14 +46,3 @@ nav {
     margin-top: 10px;
 }
 /* -------- */
-/* Rodapé */
-footer {
-    text-align: center;
-    background: url("bg.jpg");
-    padding: 40px 0;
-}
-footer p {
-    color: white;
-    font-size: 13px;
-    margin-top: 20px;
-}
