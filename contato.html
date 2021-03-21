@@ -6,11 +6,12 @@
         <title>Produtos - Barbearia Iel</title>
         <link rel="stylesheet" href="reset.css">
         <link rel="stylesheet" href = "cabecalhoRodape.css"/>
+        <link rel="stylesheet" href="contato.css">
     </head>
     <body>
         <header>
             <div class="caixa">
-                <h1><img src="logo.png"/></h1>
+                <h1><img src="logo.png" alt="logo barbearia"/></h1>
                 <nav>
                     <ul class="navegacao">                    
                         <li><a href="index.html">Home</a></li>
@@ -20,17 +21,57 @@
                 </nav>
             </div>            
         </header>
-        <main>
+        <main> 
             <form>
-                <label for="nome-completo">Nome completo</label>
-                <input id="nome-completo" type="text" />
+                <label for="nome-completo">Nome Completo</label>
+                <input class="input-padrao" id="nome-completo" type="text" required/>
 
-                email
-                telefone
+                <label for="email">Email</label>
+                <input placeholder="seuemail@dominio.com" class="input-padrao" id="email" type="email" required>
+
+                <label for="telefone">Telefone</label>
+                <input placeholder="(DDD) XXXXXXXXX" class="input-padrao" id="telefone" type="tel" required>
+
+                <label for="mensam">Mensagem</label>
+                <textarea class="input-padrao" id="mensagem" cols="70" rows="10" required></textarea>
+                
+                <fieldset>
+                    <legend>Como prefere nosso contato?</legend>
+                    <label for="radio-email">
+                        <input name="contato" id="radio-email" type="radio" value="email">
+                        Email
+                    </label>    
+    
+                    <label for="radio-telefone">
+                        <input name="contato" id="radio-telefone" type="radio" value="telefone">
+                        Telefone
+                    </label>
+                    
+    
+                    <label for="radio-whatsapp">
+                        <input name="contato" id="radio-whatsapp" type="radio" value="whatsapp" checked>
+                        Whatsapp
+                    </label>                    
+                </fieldset>
+                <fieldset>
+                    <legend>Qual horário prefere ser atendido?</legend>
+                    <select>
+                        <option>Manhã</option>
+                        <option>Tarde</option>
+                        <option>Noite</option>
+                    </select>
+                </fieldset>
+                <label for="checkbox">
+                    <input id="checkbox" type="checkbox">
+                    Gostaria de receber nossas novidades por email?
+                </label>
+                
+
+                <input class="enviar" type="submit" value="Enviar formulário">
             </form>
         </main>
         <footer>
-            <img src="logo-branco.png">
+            <img src="logo-branco.png" alt="logo.png">
             <p>&copy;Copyright Barbearia Iel - 2021</p>
         </footer>
     </body>
