@@ -13,6 +13,7 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 <p>Informações sobre float: https://www.w3schools.com/cssref/pr_class_float.asp</p>
 <p>Informações sobre clear: https://developer.mozilla.org/pt-BR/docs/Web/CSS/clear</p>
 <p>Google fonts: https://fonts.google.com/</p>
+<p>Informações sobre pseudo-elementos: https://www.w3schools.com/css/css_pseudo_elements.asp</p>
 
 <h2>Cronograma da oficina</h2>
 <h3>Sábado dia 20/03/2021</h3>
