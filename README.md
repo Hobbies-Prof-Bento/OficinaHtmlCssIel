@@ -10,6 +10,8 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 <p>Tipos de inputs para mobile: http://mobileinputtypes.com/</p>
 <p>Como mesclar linhas de tabelas: https://www.w3schools.com/tags/att_td_rowspan.asp</p>
 <p>Como mesclar colunas de tabelas: https://www.w3schools.com/tags/att_td_colspan.asp</p>
+<p>Informações sobre float: https://www.w3schools.com/cssref/pr_class_float.asp</p>
+<p>Informações sobre clear: https://developer.mozilla.org/pt-BR/docs/Web/CSS/clear</p>
 
 <h2>Cronograma da oficina</h2>
 <h3>Sábado dia 20/03/2021</h3>
