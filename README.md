@@ -1,5 +1,6 @@
 <h1>Oficina HTML e CSS Faculdade da Indústria</h1>
 Repositório para que os participantes da oficina possam acompanhar o desenvolvimento
+<p>vídeos gerados na oficina: https://www.youtube.com/playlist?list=PLdh-VglfBWWjIOWf9JAG2p8uF-YEJEs4f</p>
 
 <h2>Links relevantes</h2>
 <p>Tags HTML5: https://www.w3schools.com/tags/default.asp</p>
